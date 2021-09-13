@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinangFood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_register">PENDAFTARAN PENGGUNA BARU</string>
+    <string name="txt_first_name">Nama Depan</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="txt_nohp">No Telepon</string>
+    <string name="txt_gender">Jenis Kelamin</string>
+    <string name="txt_address">Alamat</string>
+    <string name="txt_register">DAFTAR</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Kata Sandi</string>
+    <string name="txt_required">Required</string>
+    <string name="txt_data">DATA PENGGUNA</string>
+    <string name="txt_home">Beranda</string>
+    <string name="keluar">Keluar</string>
+    <string name="dialog_exit">Apakah yaking ingin keluar?</string>
+    <string name="food_name">Nama Makanan</string>
+</resources>
